@@ -1,8 +1,8 @@
 # Токен бота, который регулярно палит салобок))
-token = ""
+token = "7410021391:AAFtkZoaUKRilRiRqLxOcV4ValM96y4ZTMA"
 
 # ID админов бота
-admin = 1128136836, 1561077313
+admin = 949112603
 
 # Токен для платежей
 PAYMENTS_PROVIDER_TOKEN = ''
